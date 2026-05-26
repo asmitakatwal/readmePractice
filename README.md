@@ -4,5 +4,6 @@
 
 ---  
 ## Log Sheet  
-| S.N | Title | Date |
+| S.N | Title | Date |  
+| 1 | Lab 2: Hosting a Web Server on the Cloud | 2026/05/26 |
 
