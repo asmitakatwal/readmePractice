@@ -5,7 +5,6 @@
 ---  
 ## Log Sheet  
 
-## Log Sheet
 
 | S.N | Title | Date |
 | --- | --- | --- |
